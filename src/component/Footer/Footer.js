@@ -1,9 +1,8 @@
 import React, { Component } from 'react'
-import { Segment, List,Grid, Image, Header, Divider, Container, Item, Icon} from 'semantic-ui-react'
+import { List,Grid, Image, Header, Item } from 'semantic-ui-react'
 
 export default class Footer extends Component {
     render() {
-        const baseUrl ='http://localhost:3000/'
         return (
         <div style={{marginTop: '20px'}}>
             <div style={{backgroundColor:'#f9fafb', padding: '30px'}}>

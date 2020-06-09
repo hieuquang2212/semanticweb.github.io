@@ -14,7 +14,7 @@ export default class Register extends Component {
     handleChange = (e, { value }) => this.setState({ value })
     
     render() {
-        const { value } = this.state
+        //const { value } = this.state
         return (
           <div style={{backgroundColor:'#f9fafb', padding: '30px'}}>
           <div style={{width: '80%', margin: 'auto'}}>

@@ -1,9 +1,7 @@
 import React, { Component } from 'react'
-import { Grid, Image, Menu, Dropdown} from 'semantic-ui-react'
+import { Grid, Image } from 'semantic-ui-react'
 import Slider from "react-slick";
 import LeftBar from './LeftBar'
-import { Link} from 'react-router-dom'
-import categories from '../../data/categories.json'
 export default class Navigation extends Component {
     state = { activeItem: 'home' }
     handleItemClick = (e, { name }) => this.setState({ activeItem: name })
