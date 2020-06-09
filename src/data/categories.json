@@ -1,0 +1,255 @@
+[
+    {
+        "name": "Laptop Dell",
+        "slug": "dell",
+        "id": 1,
+        "parent_id": 0,
+        "logo": "dell_logo.jpg"
+    },
+    {
+        "name": "Laptop Asus",
+        "slug": "asus",
+        "id": 2,
+        "parent_id": 0,
+        "logo": "asus_logo.png"
+    },
+    {
+        "name": "Laptop Acer",
+        "slug": "acer",
+        "id": 3,
+        "parent_id": 0,
+        "logo": "acer.png"
+    },
+    {
+        "name": "Laptop HP",
+        "slug": "hp",
+        "id": 4,
+        "parent_id": 0,
+        "logo": "hp_logo.png"
+    },
+    {
+        "name": "Laptop MSI",
+        "slug": "msi",
+        "id": 5,
+        "parent_id": 0,
+        "logo": "msi.png"
+    },
+    {
+        "name": "Laptop Lenovo",
+        "slug": "lenovo",
+        "id": 6,
+        "parent_id": 0,
+        "logo": "lenovo_logo.jpg"
+    },
+    {
+        "name": "Laptop Xiaomi",
+        "slug": "xiaomi",
+        "id": 7,
+        "parent_id": 0,
+        "logo": "xiaomi_logo.jpg"
+    },
+    {
+        "name": "Dell Inspiron",
+        "slug": "dell-inspiron",
+        "id": 8,
+        "parent_id": 1,
+        "logo": "dell_logo.jpg"
+    },
+    {
+        "name": "Dell Vostro",
+        "slug": "dell-vostro",
+        "id": 9,
+        "parent_id": 1,
+        "logo": "dell_logo.jpg"
+    },
+    {
+        "name": "Dell Latitude",
+        "slug": "dell-latitude",
+        "id": 10,
+        "parent_id": 1,
+        "logo": "dell_logo.jpg"
+    },
+    {
+        "name": "Dell XPS",
+        "slug": "dell-xps",
+        "id": 11,
+        "parent_id": 1,
+        "logo": "dell_logo.jpg"
+    },
+    {
+        "name": "Dell Alienware",
+        "slug": "dell-alienware",
+        "id": 12,
+        "parent_id": 1,
+        "logo": "dell_logo.jpg"
+    },
+    {
+        "name": "Dell Precision",
+        "slug": "dell-precision",
+        "id": 13,
+        "parent_id": 1,
+        "logo": "dell_logo.jpg"
+    },
+    {
+        "name": "Asus Vivobook",
+        "slug": "asus-vivobook",
+        "id": 14,
+        "parent_id": 2,
+        "logo": "asus_logo.png"
+    },
+    {
+        "name": "Asus Zenbook",
+        "slug": "asus-zenbook",
+        "id": 15,
+        "parent_id": 2,
+        "logo": "asus_logo.png"
+    },
+    {
+        "name": "Asus FX",
+        "slug": "asus-fx",
+        "id": 15,
+        "parent_id": 2,
+        "logo": "asus_logo.png"
+    },
+    {
+        "name": "Asus ROG",
+        "slug": "asus-rog",
+        "id": 16,
+        "parent_id": 2,
+        "logo": "asus_logo.png"
+    },
+    {
+        "name": "Acer Swift",
+        "slug": "acer-swift",
+        "id": 17,
+        "parent_id": 3,
+        "logo": "acer.png"
+    },
+    {
+        "name": "Acer Spin",
+        "slug": "acer-spin",
+        "id": 18,
+        "parent_id": 3,
+        "logo": "acer.png"
+    },
+    {
+        "name": "Acer Nitro",
+        "slug": "acer-nitro",
+        "id": 19,
+        "parent_id": 3,
+        "logo": "acer.png"
+    },
+    {
+        "name": "Acer Predator",
+        "slug": "acer-predator",
+        "id": 20,
+        "parent_id": 3,
+        "logo": "acer.png"
+        
+    },
+    {
+        "name": "HP Pavilion",
+        "slug": "hp-pavilion",
+        "id": 21,
+        "parent_id": 4,
+        "logo": "hp_logo.png"
+    },
+    {
+        "name": "HP Envy",
+        "slug": "hp-envy",
+        "id": 22,
+        "parent_id": 4,
+        "logo": "hp_logo.png"
+    },
+    {
+        "name": "HP Probook",
+        "slug": "hp-probook",
+        "id": 23,
+        "parent_id": 4,
+        "logo": "hp_logo.png"
+    },
+    {
+        "name": "HP Elitebook",
+        "slug": "hp-elitebook",
+        "id": 24,
+        "parent_id": 4,
+        "logo": "hp_logo.png"
+    },
+    {
+        "name": "MSI GV",
+        "slug": "msi-gv",
+        "id": 25,
+        "parent_id": 5,
+        "logo": "msi.png"
+    },
+    {
+        "name": "MSI GL",
+        "slug": "msi-gl",
+        "id": 26,
+        "parent_id": 5,
+        "logo": "msi.png"
+    },
+    {
+        "name": "MSI GP",
+        "slug": "msi-gp",
+        "id": 27,
+        "parent_id": 5,
+        "logo": "msi.png"
+    },
+    {
+        "name": "MSI GE",
+        "slug": "msi-ge",
+        "id": 27,
+        "parent_id": 5,
+        "logo": "msi.png"
+    },
+    {
+        "name": "MSI GS",
+        "slug": "msi-gs",
+        "id": 27,
+        "parent_id": 5,
+        "logo": "msi.png"
+    },
+    {
+        "name": "Lenovo Ideapad",
+        "slug": "lenovo-ideapad",
+        "id": 28,
+        "parent_id": 6,
+        "logo": "lenovo_logo.jpg"
+    },
+    {
+        "name": "Lenovo Thinkpad",
+        "slug": "lenovo-thinkpad",
+        "id": 29,
+        "parent_id": 6,
+        "logo": "lenovo_logo.jpg"
+    },
+    {
+        "name": "Lenovo Yoga",
+        "slug": "lenovo-yoga",
+        "id": 30,
+        "parent_id": 6,
+        "logo": "lenovo_logo.jpg"
+    },
+    {
+        "name": "Lenovo Legion",
+        "slug": "lenovo-legion",
+        "id": 31,
+        "parent_id": 6,
+        "logo": "lenovo_logo.jpg"
+    },
+    {
+        "name": "Mi Air",
+        "slug": "mi-air",
+        "id": 32,
+        "parent_id": 7,
+        "logo": "msi.png"
+    },
+    {
+        "name": "Mi Pro",
+        "slug": "mi-pro",
+        "id": 33,
+        "parent_id": 7,
+        "logo": "msi.png"
+    }
+]

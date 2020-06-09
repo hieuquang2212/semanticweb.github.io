@@ -1,0 +1,4286 @@
+[
+    {
+        "id": 1,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 23490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 2,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 3,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 4,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 6990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 5,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 6,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 7,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 8,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 9,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 10,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 7490000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 11,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 9190000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 12,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 13590000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 13,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 14990000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 14,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 15,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 16,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 17,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18890000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 18,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 19,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 20,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 29990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 21,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 22,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 6790000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 23,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 24,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 25,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 26,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 27,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 28,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 14790000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 29,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price":14990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 30,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 12290000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 31,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 32,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 33,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 17990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 34,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 35,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 36,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 37,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 38,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24390000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 39,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 40,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 49990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 41,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 42,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25290000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 43,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 9490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 44,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 45,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 46,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 14490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 47,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 11790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 48,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 12290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 49,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 13990000 ,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 50,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 14190000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 51,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 52,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 53,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 54,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 55,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19290000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 56,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 57,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 78,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 23990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 59,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 60,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 61,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 26990000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 62,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 42490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 63,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 36990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 64,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 23490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 6565,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 6666,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 6767,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 6990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 6868,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 69,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 70,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 7171,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 7272,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 7373,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 7490000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 74,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 9190000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 75,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 13590000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 76,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 14990000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 77,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 7878,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 7979,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 8080,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18890000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 811,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 8282,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 8383,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 29990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 8484,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 8585,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 6790000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 8686,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 8787,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 8888,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 8989,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 9090,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 9191,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 14790000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 9292,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price":14990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 9393,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 12290000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 9494,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 9595,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 9696,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 17990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 9797,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 9898,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 99,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 37,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 38,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24390000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 39,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 40,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 49990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 41,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 42,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25290000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 43,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 9490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 44,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 45,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 46,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 14490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 47,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 11790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 48,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 12290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 49,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 13990000 ,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 50,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 14190000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 51,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 52,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 53,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 54,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 55,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19290000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 56,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 57,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 78,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 23990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 59,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 60,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 61,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 26990000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 62,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 42490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 63,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 36990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 1,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 23490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 2,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 3,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 4,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 6990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 5,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 6,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 7,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 8,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 9,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 10,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 7490000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 11,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 9190000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 12,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 13590000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 13,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 14990000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 14,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 15,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 16,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 17,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18890000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 18,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 19,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 20,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 29990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 21,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 22,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 6790000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 23,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 24,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 25,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 26,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 27,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 28,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 14790000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 29,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price":14990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 30,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 12290000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 31,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 32,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 33,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 17990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 34,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 35,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 36,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 37,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 38,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24390000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 39,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 40,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 49990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 41,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 42,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25290000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 43,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 9490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 44,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 45,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 46,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 14490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 47,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 11790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 48,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 12290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 49,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 13990000 ,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 50,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 14190000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 51,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 52,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 53,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 54,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 55,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19290000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 56,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 57,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 78,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 23990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 59,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 60,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 61,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 26990000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 62,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 42490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 63,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 36990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 64,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 23490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 6565,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 6666,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 6767,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 6990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 6868,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 69,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 70,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 7171,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 7272,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 7373,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 7490000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 74,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 9190000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 75,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 13590000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 76,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 14990000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 77,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 7878,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 7979,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 8080,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18890000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 811,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 8282,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 8383,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 29990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 8484,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 8585,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 6790000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 8686,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 6990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 8787,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 6290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 8888,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 9990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 8989,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 7790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 9090,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 9191,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 14790000,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 9292,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price":14990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 9393,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 12290000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 9494,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 9595,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 9696,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 17990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 9797,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 15990000,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 9898,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 99,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24990000,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 37,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 38,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24390000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 39,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 40,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 49990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 41,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 41999000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 42,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 25290000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 43,
+        "name": "LAPTOP DELL GAMING G3 3590 (N5I5517W)",
+        "slug_name": "laptop-dell-gaming-g3-3590-n5i5517w",
+        "price": 9490000,
+        "brand": "Dell",
+        "discount_percent": 5,
+        "discription": "Core i5-9300H, Ram 8GB, 256GB, Màn hình 15.6'' FHD, VGA 3G 1050, Win 10",
+        "image": "dell20.jpeg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 44,
+        "name": "LAPTOP DELL INSPIRON 7490-N4I5106W",
+        "slug_name": "laptop-dell-inspiron-7490-n4i5106w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "RYZEN 7-3750H, Ram 8GB, SSD 512GB, màn hình 17.3, VGA 1650 4gb, Win 10",
+        "image": "dell19.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 9,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 45,
+        "name": "LAPTOP DELL INSPIRON 5491-C9TI7007W",
+        "slug_name": "laptop-dell-inspiron-5491-c9ti7007w",
+        "price": 7490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell18.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 10,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 46,
+        "name": "LAPTOP DELL INSPIRON 5593-N5I5513W",
+        "slug_name": "laptop-dell-inspiron-5593-n5i5513w",
+        "price": 14490000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell17.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 11,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 47,
+        "name": "LAPTOP DELL INSPIRON 5391 (N3I3001WS) ",
+        "slug_name": "laptop-dell-inspiron-5391-n3i3001ws",
+        "price": 11790000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "asus5.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 12,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 48,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I5106W) ",
+        "slug_name": "laptop-dell-vostro-5490-v4i5106w",
+        "price": 12290000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell16.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 13,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 49,
+        "name": "LAPTOP DELL VOSTRO 5490 (V4I3101W)",
+        "slug_name": "laptop-dell-vostro-5490-v4i3101w",
+        "price": 13990000 ,
+        "brand": "Asus",
+        "discount_percent": 6,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell15.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 14,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 50,
+        "name": "LAPTOP DELL INSPIRON 3493 (N4I5136W)",
+        "slug_name": "laptop-dell-inspiron-3493-n4i5136w",
+        "price": 14190000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell14.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 15,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 51,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell12.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 16,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 52,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell11.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 17,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 53,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 18590000 ,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell9.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 18,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 54,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 16990000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell8.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 19,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 55,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 19290000 ,
+        "brand": "Asus",
+        "discount_percent": 7,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "dell7.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 20,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 56,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 24490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20669-ldel_in3493_n4i5136w_blk_long_binh1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 21,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 57,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 22490000 ,
+        "brand": "Asus",
+        "discount_percent": 2,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20668-ins-5593-1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 22,
+        "type": "Mỏng nhẹ - Thời trang"
+    },
+    {
+        "id": 78,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 23990000 ,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20606-g731gt-04-1.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 23,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 59,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 21990000,
+        "brand": "Asus",
+        "discount_percent": 3,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20451-hp-pavilion-gaming-15-dk0232tx-8ds85pa_3d3c7437ea974da0a4c6844ca74f28cf.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 24,
+        "type": "Cao cấp - Sang trọng"
+    },
+    {
+        "id": 60,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 37490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20375-acer-nitro-5-an515-54-04.jpg",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 25,
+        "type": "Chơi game khủng"
+    },
+    {
+        "id": 61,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 26990000 ,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20329-36222_laptop_hp_pavilion_gaming_15_dk0000tx_7hr10pa__black__1_1.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 26,
+        "type": "Học tập - Văn phòng"
+    },
+    {
+        "id": 62,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 42490000,
+        "brand": "Asus",
+        "discount_percent": 5,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20237-15939-acer-nitro-an515-43-r84r-3.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id":27,
+        "type": "Đồ họa - Kỹ thuật"
+    },
+    {
+        "id": 63,
+        "name": "LAPTOP ASUS ROG STRIX G G531-VAL218T",
+        "slug_name": "aptop-asus-rog-strix-g-g531",
+        "price": 36990000,
+        "brand": "Asus",
+        "discount_percent": 4,
+        "discription": "Corei7-9750H, Ram 8GB, SSD 512GB, Màn hình 15.6, VGA RTX 2060 6GB, Win 10",
+        "image": "250-20220-asus_rog_strix_scar_iii_g531g-waz209t.png",
+        "detail": {
+            "cpu" :"Ryzen 7 3750H",
+            "ram": "8GB DDR4 2666MHz",
+            "vga": "NVIDIA GeForce GTX 1650 4GB GDDR5"
+        },
+        "category_id": 8,
+        "type": "Cao cấp - Sang trọng"
+    }
+]

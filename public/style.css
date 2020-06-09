@@ -1,0 +1,61 @@
+p {
+    margin: 0;
+}
+.slick-prev {
+    left: 10px !important;
+    display: block !important;
+    position: absolute !important;
+    z-index: 1 !important;
+    color: white !important;
+}
+.slick-next {
+    right: 10px !important;
+    display: block !important;
+    position: absolute !important;
+    z-index: 1 !important;
+    color: white !important;
+}
+.slick-prev:before, .slick-next:before {
+    color: black !important
+}
+.slick-slider {
+    width: 97%;
+    margin: auto;
+    padding: 0px;
+}
+.slick-dots {
+    bottom: 30px !important;
+}
+.checkbox {
+    margin-bottom: 10px;
+}
+.ui.secondary.vertical.pointing.menu .item:hover {
+    background-color: #d1d1d1;
+}
+a {
+    color: black !important
+}
+a:hover {
+    text-decoration: underline;
+}
+.ui.vertical.menu .dropdown.item .menu {
+    top: 0 !important
+}
+.menu a .item {
+    color: cornflowerblue;
+}
+
+ul.slick-dots li {
+    width: 20% !important;
+    opacity: 50%;
+    
+}
+ul.slick-dots li.slick-active {
+    opacity: 1;
+}
+ul.slick-dots li img {
+    border: 1px solid #d1d1d1;
+}
+.slick-thumb {
+    position: relative !important;
+}
